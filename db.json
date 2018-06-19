@@ -1,7 +1,5 @@
 [
-{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"student_info"},
-{"type":"table","name":"stud_info","database":"student_info","data":
+"profile":
 [
 {"RollNo":"1","Name":"Pablo","City":"Fuket","Stream":"Cse"},
 {"RollNo":"2","Name":"Escobar","City":"Singapore","Stream":"CSE"},
