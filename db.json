@@ -1,12 +1,10 @@
 {
 "profile": [
-[
 {"RollNo":"1","Name":"Pablo","City":"Fuket","Stream":"Cse"},
 {"RollNo":"2","Name":"Escobar","City":"Singapore","Stream":"CSE"},
 {"RollNo":"3","Name":"Pena","City":"Columbia","Stream":"Mech"},
 {"RollNo":"4","Name":"John","City":"Peru","Stream":"Extc"},
 {"RollNo":"5","Name":"Luis","City":"Denmark","Stream":"Elpo"},
 {"RollNo":"6","Name":"Cj","City":"Rome","Stream":"Mech"}
-]
 ]
 }
